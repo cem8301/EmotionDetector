@@ -1,9 +1,5 @@
 # EmotionDetector
 
-# Sample Results
-![Alt text](https://github.com/cem8301/EmotionDetector/blob/master/splash.png?raw=true "Python HTML Version")
-
-
 Case Study in Recognition of Emotion from Images
 Carolyn Mason
 4/18/2019
@@ -30,6 +26,10 @@ Top challenges were overfitting, category result imbalance, and importance of cr
 
 Results:
 The final accuracy of the model is 66.5% for predicting four emotions (angry, happy, sad, neutral). The model is best at determining happy emotion and worst at determining sad emotion.
+
+# Sample Results
+![Alt text](https://github.com/cem8301/EmotionDetector/blob/master/splash.png?raw=true "Python HTML Version")
+
 
 URLs for YouTube recordings:
 2 minute: https://youtu.be/nrLpXucMcLM 
